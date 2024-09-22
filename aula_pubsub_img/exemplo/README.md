@@ -12,9 +12,9 @@
 
 1. ### Introdução Breve revisão do conceito PUB/SUB:  
 
-    PUB: Publica uma mensagem (ex: imagem). 
+    PUB: Publicar uma mensagem (ex: imagem). 
 
-    SUB: Consumir o tópico e recebe a mensagem. 
+    SUB: Consumir o tópico e receber a mensagem. 
 
 2. ### Biblioteca is-msgs Apresentação da biblioteca is-msgs:
 
