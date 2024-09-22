@@ -1,4 +1,4 @@
-# Aula de Quarta: Transferência de Imagem Usando PUB/SUB (caso precise dar aula)
+# Aula de Quarta: Transferência de Imagem Usando PUB/SUB
 
  - Aplicar os conceitos de PUB e SUB para criar um código de transferência de arquivos, especificamente imagens.
 
